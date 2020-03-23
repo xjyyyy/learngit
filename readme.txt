@@ -5,3 +5,4 @@ new line
 new new line
 Git tracks changes of files
 create a new brancj dev
+create a new branch is quick and simple
