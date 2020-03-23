@@ -3,4 +3,4 @@ git is free software new ne
 new w
 new line
 new new line
-Git tracks changes.
+Git tracks changes of files
