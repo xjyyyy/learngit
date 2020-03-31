@@ -1,8 +1,5 @@
 kbki
-<<<<<<< HEAD
 xjy331
-=======
 xjy updated
->>>>>>> 879fb9f0f8ec9452a8e60f7911db566a4c67d331
 zhaoshichang gaide 
 zscupdate
